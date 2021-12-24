@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sathirajayawardana
 - 👀 I’m interested in ICT
 - 🌱 I’m currently learning GRADE 7
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Sathirajayawardana/Sathirajayawardana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
